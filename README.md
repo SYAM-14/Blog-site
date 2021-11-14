@@ -1,3 +1,8 @@
+#Blog-Site using React
+created a blog site using react and JSON file as database(fake REST API)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

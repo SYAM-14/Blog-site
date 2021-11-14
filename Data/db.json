@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Why arm Architecture ",
+      "body": "The Arm architecture is the keystone of the world’s largest compute ecosystem. It enables our partners to build their products in an efficient, affordable, and secure way. Arm’s proven track record of delivering world-class architecture designs is reflected in the success of this diverse and ever-evolving ecosystem.\n\nArm’s architecture specifications are licensed by partners, who create compliant silicon chips based on them. With more than 200 billion devices containing Arm-based chips, our architecture empowers innovation in multiple markets enabling partner innovation.\n\nWhile our architecture prevails in the mobile market, powering most smartphones, they also feature in many other areas. From millions of the simplest IoT devices to sophisticated machine learning applications, Arm is everywhere. Arm architecture enables the creation of devices at every level, with a complete tools suite and a strong global ecosystem for support.",
+      "author": "John doe",
+      "id": 4
+    },
+    {
+      "title": "Artificial Intelligence & Autopilot",
+      "body": "\nFSD Chip\n\nBuild AI inference chips to run our Full Self-Driving software, considering every small architectural and micro-architectural improvement while squeezing maximum silicon performance-per-watt. Perform floor-planning, timing and power analyses on the design. Write robust tests and scoreboards to verify functionality and performance. Implement drivers to program and communicate with the chip, focusing on performance optimization and redundancy. Finally, validate the silicon chip and bring it to mass production in our vehicles.\n\n\nDojo Chip\n\nBuild AI training chips to power our Dojo system. Implement bleeding-edge technology from the smallest training nodes to the multi-die training tiles. Design and architect for maximum performance, throughput and bandwidth at every granularity. Dictate physical methodology, floor-planning and other physical aspects of the chip. Develop pre-silicon verification and post-silicon validation methods to ensure functional correctness. Write compilers and drivers to optimize power and performance for our neural networks throughout the entire Dojo system. For more information about Dojo’s arithmetic formats and methods, download our latest whitepaper.\n",
+      "author": "Tesla Ai",
+      "id": 5
+    },
+    {
+      "title": "Goal-Gradient Effect",
+      "body": "The goal-gradient hypothesis, originally proposed by the behaviorist Clark Hull in 1932, states that the tendency to approach a goal increases with proximity to the goal. In a classic experiment that tests this hypothesis, Hull (1934) found that rats in a straight alley ran progressively faster as they proceeded from the starting box to the food. Although the goal-gradient hypothesis has been investigated exten-sively with animals (e.g., Anderson 1933; Brown 1948; for a review, see Heilizer 1977), its implications for human behavior and decision making are understudied. Further-more, this issue has important theoretical and practical implications for intertemporal consumer behavior in reward programs (hereinafter RPs) and other types of motivational systems (e.g., Deighton 2000; Hsee, Yu, and Zhang 2003; Kivetz 2003; Lal and Bell 2003).",
+      "author": "UI matrix",
+      "id": 6
+    },
+    {
+      "title": "Apple M1 Chip: Everything You Need to Know",
+      "body": "Apple in November 2020 released the first Macs with an Arm-based M1 chip, debuting new 2020 13-inch MacBook Pro, MacBook Air, and Mac mini models. In 2021, Apple added the M1 iMac and the M1 iPad Pro. The M1 chip has received rave reviews for its incredible performance and efficiency, and it is the culmination of more than a decade of Apple's work on chips created for the iPhone and the iPad.The M1 is the first Apple-designed System on a Chip (SoC) that's been developed for use in Macs. It marks Apple's transition away from the Intel chips that the Cupertino company has been using in Macs since 2006.Built into the M1 chip, the unified memory architecture lets the CPU, GPU, and other processor components don't need to copy data between one another, and are able to access the same data pool. This brings notable speed and efficiency improvements to the M1. This memory architecture means that the RAM is not user upgradeable, which isn't too much of a surprise because few Macs have user accessible RAM. M1 Macs max out at 16GB RAM, but even the base 8GB is enough for everyday tasks.\n\nThere are 16 billion transistors on the M1, which is the most Apple has ever put into a chip for the fastest CPU core available in low-power silicon and unparalleled CPU performance per watt. Apple's chip design has allowed it to create Macs that are faster and more power-efficient than was possible with Intel-designed chips, and further enhancements are available through the new tighter integration of an Apple-designed chip paired with Apple-designed software.",
+      "author": "Tim cook",
+      "id": 7
+    }
+  ]
+}
